@@ -15,12 +15,6 @@ DROP INDEX IdxPhone;
 CREATE USER 'bob'@'localhost'
 IDENTIFIED BY 'S$cu3r3!';
 
-Collecting workspace information```md
-# SQL Solutions README
-
-This document explains the solutions provided in the `answers.sql` file for the SQL-related tasks.
-
----
 Question 2 👤
 Task: Write an SQL query to create a user named `bob` with the password `S$cu3r3!`, restricted to the `localhost` hostname.
 
